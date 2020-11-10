@@ -1,0 +1,39 @@
+#grid {
+    display: grid;
+    grid-template-columns: 300px 150px;
+    grid-column-gap: 15px;
+    grid-template-rows: 40px 100px;
+    grid-row-gap: 10px ;
+    justify-content: stretch;
+}
+.border {
+    border: solid red;
+}
+#grid1 {
+    display: grid;
+    background-color: yellow;
+    font-size: 20px;
+    justify-self: center;
+    align-self: center;
+}
+#grid2 {
+    display: grid;
+    background-color: yellow;
+    font-size: 20px;
+    justify-self: center;
+    align-self: center;
+}
+#grid3{
+    display: grid;
+    background-color: yellow;
+    font-size: 20px;
+    justify-self: center;
+    align-self: center;
+}
+#grid4 {
+    display: grid;
+    background-color: yellow;
+    font-size: 20px;
+    justify-self: center;
+    align-self: center;
+}

@@ -1,0 +1,20 @@
+.champa {
+    color: blue;
+}
+.champa2 {
+    color: red;
+}
+.a {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+#champaimg {
+    width: 100px;
+    height: 90px;
+    background-color: violet;
+}
+#elementoPrueba {
+    color: red;
+    flex-shrink: -1;
+}
